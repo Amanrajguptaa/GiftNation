@@ -30,7 +30,7 @@ const FeaturedCategoriesSection = () => {
 
   return (
     <div className="main_ctr flex items-center justify-center flex-col py-10 px-10 sm:px-16 gap-6">
-      <div className="text_ctr flex items-center justify-center flex-col">
+      <div className="text_ctr flex items-center justify-center flex-col text-center">
         <div className="heading_ctr text-4xl font-semibold">
           Featured Collections
         </div>

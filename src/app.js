@@ -5,6 +5,8 @@ import Footer from "./Components/Footer/Footer";
 import FeatureCardsSection from "./Components/FeatureCardsSection/FeatureCardsSection";
 import FeaturedCategoriesSection from "./Components/FeaturedCategoriesSection/FeaturedCategoriesSection";
 import SectionByLabel from "./Components/SectionByLabel/SectionByLabel";
+import CtaBannerSection from "./Components/CtaBannerSection/CtaBannerSection";
+import GiftFinder from "./Components/GiftFinder/GiftFinder";
 
 const App = () => {
   return (
@@ -13,6 +15,8 @@ const App = () => {
       <FeatureCardsSection />
       <FeaturedCategoriesSection />
       <SectionByLabel />
+      <CtaBannerSection/>
+      <GiftFinder/>
       <Footer />
     </>
   );
