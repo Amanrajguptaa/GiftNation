@@ -93,7 +93,7 @@ const Footer = () => {
           </div>
         </div>
       </div>
-      <div className="bottom_ctr py-4 h-auto flex flex-col sm:flex-row items-center justify-between gap-2 sm:gap-0">
+      <div className="bottom_ctr py-4 flex flex-col sm:flex-row items-center justify-between gap-2 sm:gap-0">
         <div className="left_ctr w-full sm:w-3/12 flex items-center justify-center sm:justify-between">
           <div className="text-white/75 text-sm bi bi-c-circle">  2024 GiftLab. All rights reserved. </div>
         </div>
