@@ -32,7 +32,7 @@ const Header = () => {
         </div>
       </div>
       <div
-        className={`sm_sidebar lg:hidden h-auto ml-4 sm:ml-10 rounded-md border border-black/50 max-w-[150px] sm:w-3/12 px-8 py-6 flex-col gap-4 text-sm absolute bg-white/10 backdrop-blur-xl -mt-0 sm:-mt-5 ${
+        className={`sm_sidebar lg:hidden ml-4 sm:ml-10 rounded-md border border-black/50 max-w-[150px] sm:w-3/12 px-8 py-6 flex-col gap-4 text-sm absolute bg-white/10 backdrop-blur-xl -mt-0 sm:-mt-5 ${
           isHamBurger ? "flex" : "hidden"
         }`}
       >
