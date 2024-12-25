@@ -2,7 +2,7 @@ import React from "react";
 
 const FeatureCardsSection = () => {
   return (
-    <div className="main_ctr flex items-center justify-between gap-4 px-10 md:px-16 py-10 text-[#111827] flex-wrap sm:flex-nowrap sm:h-[45%]">
+    <div className="main_ctr flex items-center justify-between gap-4 px-10 md:px-16 py-10 text-[#111827] flex-wrap sm:flex-nowrap">
       <div className="w-full sm:w-4/12 bg-[#f4f4f4] rounded-lg h-full p-6 flex flex-col items-center justify-center sm:gap-2 gap-1">
         <div className="bi bi-truck text-4xl mb-2"></div>
         <div className="font-semibold text-xl text-center leading-6">Fast Delivery</div>
